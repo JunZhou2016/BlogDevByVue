@@ -10,7 +10,8 @@ import store from './store/about_me_store';
 /**
  * 使用iView插件;
  */
-
+ 
+ 
 Vue.use(iView);
 
 new Vue({
